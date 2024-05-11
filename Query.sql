@@ -15,7 +15,7 @@ CREATE TABLE rakamin-kf-analytic.Rakamin_KF_Analytics.transaction_data AS
         WHEN t.price > 100000 AND t.price <= 300000 THEN 0.20
         WHEN t.price > 300000 AND t.price <= 500000 THEN 0.25
         WHEN t.price > 500000 THEN 0.30
-      END)AS nett_profit,
+      END) AS nett_profit,
     t.rating AS rating_transaksi
 FROM
   rakamin-kf-analytic.Rakamin_KF_Analytics.kf_final_transaction as t
