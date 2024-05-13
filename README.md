@@ -19,8 +19,3 @@ Sebagai Big Data Analytics Intern di Kimia Farma, saya diberikan dataset berisi 
 
 Google BigQuery SQL
 Google Looker Studio
-
-## Link Referensi
-
-Video YouTube: https://m.youtube.com/watch?v=bAyrObl7TYE
-Link Dashboard: https://lookerstudio.google.com/
